@@ -5,8 +5,8 @@ You can find backend code on this [repo](https://github.com/devmaufh/chat-app).
 
 #### Screenshots
 Online users | Chat
---- | --- | ---
-![Asies](https://github.com/devmaufh/chat-app-flutter/blob/master/screenshots/contacts.jpeg) | ![Asies](https://github.com/devmaufh/chat-app-flutter/blob/master/screenshots/messages.jpeg)
+--- | --- 
+![Contacts](https://github.com/devmaufh/chat-app-flutter/blob/master/screenshots/contacts.jpeg) | ![Chat](https://github.com/devmaufh/chat-app-flutter/blob/master/screenshots/messages.jpeg)
 
 
 
